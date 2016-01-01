@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['informhunters',['InformHunters',['../player_8kod.html#a7e43651bbaa133bfa459be7ad1f5a626',1,'player.kod']]],
+  ['iscrystalizemanasurging',['IsCrystalizeManaSurging',['../player_8kod.html#a2e13afb0d2df76f1a8d9d23097c8922d',1,'player.kod']]],
+  ['iscursedbyitems',['IsCursedByItems',['../player_8kod.html#aff6f695daa7e1ace669bf348a77ad74b',1,'player.kod']]],
+  ['isdead',['IsDead',['../player_8kod.html#afbea1ed295524baf90dfed6706be9865',1,'player.kod']]],
+  ['isincannotinteractmode',['IsInCannotInteractMode',['../player_8kod.html#a338e88531a38b3d74675b4e2fe649e2b',1,'player.kod']]],
+  ['isinsameroom',['IsInSameRoom',['../player_8kod.html#a3a19bc648bd93fc07c0b4cf464c8380e',1,'player.kod']]],
+  ['isinvisible',['IsInvisible',['../player_8kod.html#a8c78648af04012f46acc2d225d77672d',1,'player.kod']]],
+  ['islikelyvictim',['IsLikelyVictim',['../player_8kod.html#a553db9b86509cc3b1db36ca32f40342e',1,'player.kod']]],
+  ['isloggedon',['IsLoggedOn',['../player_8kod.html#a9a538ec0775ee48c7d04642c4fd736d6',1,'player.kod']]],
+  ['ismorphed',['IsMorphed',['../player_8kod.html#a806a29a3216c7543bdd860c9adb23863',1,'player.kod']]],
+  ['isokayattacktime',['IsOkayAttackTime',['../player_8kod.html#aa6fd19f18c1bc9ffe044f8394017bb5b',1,'player.kod']]],
+  ['isresting',['IsResting',['../player_8kod.html#adaee60fe917917a4ce3254f42664b294',1,'player.kod']]],
+  ['isshadowform',['IsShadowForm',['../player_8kod.html#a6df7dd4c212737a03f94e01dac72d484',1,'player.kod']]],
+  ['isundead',['IsUndead',['../player_8kod.html#a08d91b9daaaa58bd6c065bb08bccd952',1,'player.kod']]],
+  ['isusinga',['IsUsingA',['../player_8kod.html#aeeba6c29372c8bac1e3ffb9b52f152be',1,'player.kod']]],
+  ['iswizard',['IsWizard',['../player_8kod.html#aeb71488fd56cd4e6793ea7a72608d690',1,'player.kod']]]
+];
