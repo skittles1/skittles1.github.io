@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['zeromods',['ZeroMods',['../player_8kod.html#a6b678db5ee75d62415ac6b96ea7a3d5a',1,'player.kod']]]
+  ['wasspellused',['WasSpellUsed',['../player_8kod.html#ad9106e0b6c2bfc3a2a711b94fcac097b',1,'player.kod']]]
 ];

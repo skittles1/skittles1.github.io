@@ -15,5 +15,7 @@ var searchData=
   ['isshadowform',['IsShadowForm',['../player_8kod.html#a6df7dd4c212737a03f94e01dac72d484',1,'player.kod']]],
   ['isundead',['IsUndead',['../player_8kod.html#a08d91b9daaaa58bd6c065bb08bccd952',1,'player.kod']]],
   ['isusinga',['IsUsingA',['../player_8kod.html#aeeba6c29372c8bac1e3ffb9b52f152be',1,'player.kod']]],
+  ['isvalidquestnodetemplate',['IsValidQuestNodeTemplate',['../questengine_8kod.html#abdc72677f99a0f39817c60d9270421a0',1,'questengine.kod']]],
+  ['isvalidquesttemplate',['IsValidQuestTemplate',['../questengine_8kod.html#a71fd165d5f4bd80cd46c235d50320cd2',1,'questengine.kod']]],
   ['iswizard',['IsWizard',['../player_8kod.html#aeb71488fd56cd4e6793ea7a72608d690',1,'player.kod']]]
 ];

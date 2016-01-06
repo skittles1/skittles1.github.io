@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['wasspellused',['WasSpellUsed',['../player_8kod.html#ad9106e0b6c2bfc3a2a711b94fcac097b',1,'player.kod']]]
+  ['verifyoverlays',['VerifyOverlays',['../player_8kod.html#a80378dd2c838e3911d672aa757753f3d',1,'player.kod']]]
 ];
